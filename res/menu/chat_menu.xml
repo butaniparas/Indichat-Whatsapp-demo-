@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="View Contact"
+        android:id="@+id/menu_vcontact"/>
+    <item android:title="Media,links, and docs"
+        android:id="@+id/menu_media"/>
+    <item android:title="Search"
+        android:id="@+id/menu_search"/>
+    <item android:title="Mute notification"
+        android:id="@+id/menu_notification"/>
+    <item android:title="Wallpaper"
+        android:id="@+id/menu_wallpaper"/>
+</menu>
